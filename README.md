@@ -15,10 +15,10 @@ education:
 fields_of_interests:
   [
     "Data Science",
+    "Data Engineering"
     "Machine Learning",
-    "UI/UX",
+    "LLM Technologies",
     "Generative AI",
-    "Development Cooperation"
   ]
 2024 Goals: ["Finish M.Sc.Thesis", "gain first insights as Data Analyst or Data Engineer", "learn at least 5 new technologies"]
 hobbies: ["TosoX", "Hiking", "Winter Activities"]

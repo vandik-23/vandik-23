@@ -1,8 +1,8 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=faebd7&text=Welcome%20%20Everyone&animation=fadeIn&section=header&fontColor=66cdaa)
 
 
 
+![VAndrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandik-23&theme=vue&show_icons=true)
 ### Hi there 👋
 
 <!--

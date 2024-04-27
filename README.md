@@ -59,7 +59,6 @@ hobbies: ["TosoX", "Hiking", "Winter Activities"]
 <img src="https://raw.githubusercontent.com/max-mapper/hexbin/90a6aae0ebb12d4ac9810f870b67100d913a18f4/vector/shiny.svg" alt="bash" width="90" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/qgis/qgis-ar21.svg" alt="bash" width="90" height="45"/>
 </p>
-<br>
 
 <h2 align="left"><strong>:turtle:My GitHub histrory:</strong></h2>
 
@@ -73,7 +72,6 @@ hobbies: ["TosoX", "Hiking", "Winter Activities"]
     </td>
   </tr>
 </table>
-<br>
 
 <h2 align="left"><strong>:lady_beetle:Other Interests:</strong></h2>
 

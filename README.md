@@ -20,7 +20,7 @@ fields_of_interests:
     "Generative AI",
     "Development Cooperation"
   ]
-2024 Goals: ["Finish M.Sc.Thesis", "gain first exeriences as data analyst or engeneer", "learn at least 5 new technologies."]
+2024 Goals: ["Finish M.Sc.Thesis", "gain first insights as Data Analyst or Data Engineer", "learn at least 5 new technologies"]
 hobbies: ["TosoX", "Hiking", "Winter Activities"]
 ```
 

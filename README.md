@@ -1,15 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=dddddd&text=Welcome%20&animation=fadeIn&section=header&fontColor=66cdaa)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=c1f4ee&text=Welcome%20&animation=fadeIn&section=header&fontColor=66cdaa)
 
 <h2 align="left"><strong>:green_heart:About me and my interests:</strong></h2>
 
 ```yaml
 name: Andrea V.
 located_in: Switzerland
-current_job: Operational Partner
+current_job: Operational and Administrative Partner
 education:
   [
-    "M.Sc. Applied Information and Data Science @ HSLU",
-    "M.A.International Relations @ Covinus University",
+    "M.Sc. Applied Information and Data Science",
+    "CAS Digital Office Management"
+    "M.A.International Relations",
   ]
 fields_of_interests:
   [
@@ -17,11 +18,11 @@ fields_of_interests:
     "Machine Learning",
     "UI/UX",
     "Generative AI",
+    "Development Cooperation"
   ]
-2024 Goals: ["Finish Master Paper, Create new projects and learn at least 5 new technologies."]
+2024 Goals: ["Finish M.Sc.Thesis", "gain first exeriences as data analyst or engeneer", "learn at least 5 new technologies."]
 hobbies: ["TosoX", "Hiking", "Winter Activities"]
 ```
-![VAndrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandik-23&theme=vue&show_icons=true)
 
 <h2 align="left"><strong>:bug:Tools I used and learned:</strong></h2>
 
@@ -80,6 +81,15 @@ hobbies: ["TosoX", "Hiking", "Winter Activities"]
 <a href="https://ch.linkedin.com/in/aviczian">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_linkedin-512.png"/>
 </a>
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=c1f4ee&animation=fadeIn&section=footer&fontColor=66cdaa)
+
+<h2 align="left"><strong>:turtle:My GitHub histrory:</strong></h2>
+
+
+![VAndrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandik-23&theme=vue&show_icons=true)
+<br>
 
 <!--
 ### Hi there 👋

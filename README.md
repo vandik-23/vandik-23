@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=faebd7&text=Welcome%20%20Everyone&animation=fadeIn&section=header&fontColor=66cdaa)
 
+**Let`s connect and have a chat!**
 
+
+<a href="https://ch.linkedin.com/in/aviczian">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 
 ![VAndrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandik-23&theme=vue&show_icons=true)
 ### Hi there 👋

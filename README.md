@@ -1,7 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=faebd7&text=Welcome%20%20Everyone&animation=fadeIn&section=header&fontColor=66cdaa)
 
-**Let`s connect and have a chat!**
+<h2 align="left"><strong>:woman_technologist:About me and my interests:</strong></h2>
 
+
+
+
+<h2 align="left"><strong>:flying_saucer:Tools I used and learned:</strong></h2>
+
+
+<h2 align="center"><strong>:spider_web:Let's connect and have a chat!:speech_balloon:</strong></h2>
 
 <a href="https://ch.linkedin.com/in/aviczian">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>

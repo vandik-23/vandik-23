@@ -98,7 +98,8 @@ hobbies: ["TosoX", "Hiking", "Winter Activities"]
   </tr>
 </table>
 
-![Snake animation](https://github.com/vandik-23/vandik-23/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]
+(https://github.com/vandik-23/vandik-23/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 ### Hi there 👋

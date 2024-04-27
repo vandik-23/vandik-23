@@ -1,14 +1,30 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=dddddd&text=Welcome%20&animation=fadeIn&section=header&fontColor=66cdaa)
 
-<h2 align="center"><strong>:green_heart:About me and my interests:</strong></h2>
+<h2 align="left"><strong>:green_heart:About me and my interests:</strong></h2>
 
 ```yaml
-* YOUR TEXT GOES HERE *
+name: Andrea V.
+located_in: Switzerland
+current_job: Operational Partner
+education:
+  [
+    "M.Sc. Applied Information and Data Science @ HSLU",
+    "M.A.International Relations @ Covinus University",
+  ]
+fields_of_interests:
+  [
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Generative AI",
+  ]
+2024 Goals: ["Finish Master Paper, Create new projects and learn at least 5 new technologies."]
+hobbies: ["TosoX", "Hiking", "Winter Activities"]
 ```
+![VAndrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandik-23&theme=vue&show_icons=true)
 
+<h2 align="left"><strong>:bug:Tools I used and learned:</strong></h2>
 
-<h2 align="center"><strong>:herb:Tools I used and learned:</strong></h2>
-<br>
 <h4 align="left"><strong>Coding:</strong></h4>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="bash" width="90" height="45"/>
@@ -44,26 +60,29 @@
 </p>
 <br>
 
-
-<h2 align="left"><strong>	:leaves:Other Interests:</strong></h2>
+<h2 align="left"><strong>:lady_beetle:Other Interests:</strong></h2>
 
 <a href="https://www.toso-x.com/">
-  <img height="50" src="https://www.toso-x.com/typo3conf/ext/bootstrap/Resources/Public/Images/Logo.svg"/>
+  <img height="50" width="90" src="https://www.toso-x.com/typo3conf/ext/bootstrap/Resources/Public/Images/Logo.svg"/>
 </a>
 
-<h2 align="center"><strong>:spider_web:Let's connect and have a chat!:speech_balloon:</strong></h2>
+<a href="https://schweizmobil.ch/de/sommer">
+  <img height="50" width="110" src="https://schweizmobil.ch/img/logo/e_schweizmobil_logo_de.svg?ts11=17137955269"/>
+</a>
+
+<a href="https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/">
+  <img height="50" width="110" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Schweizer_Alpen-Club_logo.svg"/>
+</a>
+<br>
+
+<h2 align="left"><strong>:spider_web:Let's connect and have a chat!:speech_balloon:</strong></h2>
 
 <a href="https://ch.linkedin.com/in/aviczian">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_linkedin-512.png"/>
 </a>
 
-![VAndrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandik-23&theme=vue&show_icons=true)
-
-
-
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **vandik-23/vandik-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

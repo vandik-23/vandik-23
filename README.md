@@ -71,19 +71,6 @@ hobbies: ["TosoX", "Hiking", "Winter Activities"]
   </tr>
 </table>
 
-<h2 align="left"><strong>:turtle:My GitHub histrory:</strong></h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vandik-23&theme=vue&show_icons=true" alt="VAndrea's GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandik-23" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
 <h2 align="left"><strong>:lady_beetle:Other Interests:</strong></h2>
 
 <a href="https://www.toso-x.com/">

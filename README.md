@@ -61,6 +61,20 @@ hobbies: ["TosoX", "Hiking", "Winter Activities"]
 </p>
 <br>
 
+<h2 align="left"><strong>:turtle:My GitHub histrory:</strong></h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vandik-23&theme=vue&show_icons=true" alt="VAndrea's GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandik-23" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+<br>
+
 <h2 align="left"><strong>:lady_beetle:Other Interests:</strong></h2>
 
 <a href="https://www.toso-x.com/">
@@ -81,23 +95,8 @@ hobbies: ["TosoX", "Hiking", "Winter Activities"]
 <a href="https://ch.linkedin.com/in/aviczian">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_linkedin-512.png"/>
 </a>
-<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=c1f4ee&animation=fadeIn&section=footer&fontColor=66cdaa)
-
-<h2 align="left"><strong>:turtle:My GitHub histrory:</strong></h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vandik-23&theme=vue&show_icons=true" alt="VAndrea's GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandik-23" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
 
 <!--
 ### Hi there 👋
